@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Hermanus_Angelkot_junior
     - http://www.dbnl.nl/tekst/laan005lett01/laan005lett01_0340.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13386#Vechter
 gutenberg_issued: '2004-09-07'
 gutenberg_type: Text
 identifiers:
